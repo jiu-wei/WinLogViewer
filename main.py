@@ -291,7 +291,7 @@ class NovelReader:
         self.master.attributes("-alpha", 0.95)
         self.master.deiconify()
         self.master.focus_force()
-
+# 那比如说我在这一行加一个注释怎么办呢
 
 if __name__ == "__main__":
     root = tk.Tk()
